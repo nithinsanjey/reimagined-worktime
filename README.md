@@ -5,7 +5,7 @@ A simple web application for starting the work and gives a notification when a b
 
 We try an incremental approach by which we can develop things with different features in different releases :P
 
-## Scope of the complete project ## as of now ( Imaginations and edits invited ) (of course this is open source)
+## Scope of the complete project as of now ( Imaginations and edits invited ) (of course this is open source)
 
 * Custom worktime and break time
 * Analysis
