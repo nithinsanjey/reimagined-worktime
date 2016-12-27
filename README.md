@@ -1,3 +1,5 @@
+Thank you for the cheat sheet for readme document (this file) from tchapi. Link here : https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
+
 # reimagined-worktime
 A simple web application for starting the work and gives a notification when a break is needed (like once in 50 minutes for 10 minutes)
 
