@@ -12,6 +12,7 @@ We try an incremental approach by which we can develop things with different fea
 * Notify by some method (mostly pop up or through tab-title changes)
 * telling of time every often ( like 30 minutes (custom) )
 * what and what not :) ....
+* Another one : An option for entering the birthdays of people and then we can remember and get reminded(this is stupid&irrelevant i know) well who knows what this can lead to..(just not filtering as of now)
 
 ### Realease one (mostly like push one :) )
 
