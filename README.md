@@ -19,3 +19,7 @@ We try an incremental approach by which we can develop things with different fea
 * A webpage with a start button.
 * Once started the timer should start decreasing from 50 minutes (as of now)
 * After timer expires change the tab-title and play a simple beep.
+
+### Idea of meaning search that I use very often
+
+* There should be this text box where we could enter a word. Ajaxly(:P) the text should be searched for meaning and given below like the one that we get when we search for 'theUnknownWord' meaning.
